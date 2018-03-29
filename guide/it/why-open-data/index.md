@@ -5,13 +5,21 @@ lang: it
 title: Perché dati aperti (open data)?
 ---
 
-Gli [Open data](/glossary/it/terms/open-data/), e in particolare gli {term:open government data}, sono una immensa risorsa ancora in gran parte inutilizzata. Molte persone e molte organizzazioni raccolgono, per svolgere i loro compiti, una vasta gamma di dati diversi. Quello che fa il Governo è particolarmente importante in questo senso, non solo per la quantità e centralità dei dati raccolti, ma anche perché la maggior parte dei dati governativi sono pubblici per legge, e quindi dovrebbero essere resi aperti e disponibili all'uso per chiunque. Perché questo ci interessa?
+Gli [Open data](/glossary/it/terms/open-data/), e in particolare gli [open government](/glossary/en/terms/open-government/), sono una immensa risorsa ancora in gran parte inutilizzata. Molte persone e molte organizzazioni raccolgono, per svolgere i loro compiti, una vasta gamma di dati diversi. Quello che fa il Governo è particolarmente importante in questo senso, non solo per la quantità e centralità dei dati raccolti, ma anche perché la maggior parte dei dati governativi sono pubblici per legge, e quindi dovrebbero essere resi aperti e disponibili all'uso per chiunque. Perché questo ci interessa?
 
 Ci sono molte circostanze in cui possiamo attenderci che i dati aperti abbiano un valore rilevante e molti esempi in cui questo già accade. Ci sono anche numerose categorie di soggetti e organizzazioni che possono trarre beneficio dalla disponibilità di dati aperti, inclusa la pubblica amministrazione. Allo stesso tempo non è possibile predire come e dove sarà creato valore. La caratteristica dell'innovazione e delle novità è di arrivare da luoghi inaspettati.
 
 È già possibile indicare un vasto numero di aree dove i dati pubblici aperti stanno creando valore. Tra di esse:
 
--   Transparency and democratic control \* Participation \* Self-empowerment \* Improved or new private products and services \* Innovation \* Improved efficiency of government services \* Improved effectiveness of government services \* Impact measurement of policies \* Estrazione di nuova conoscenza dalla combinazione di diverse fonti di dati e dall'identificazione di regolarità che emergono dall'analisi di grandi masse di dati
+-   Trasparenza e controllo democratico
+-   Partecipazione
+-   Self-empowerment
+-   Nuovi, o migliorati, prodotti e servizi privati
+-   Innovazione
+-   Miglioramento dell'efficienza dei servizi governativi
+-   Miglioramento dell'efficacia dei servizi governativi
+-   Impact measurement of policies
+-   Estrazione di nuova conoscenza dalla combinazione di diverse fonti di dati e dall'identificazione di regolarità che emergono dall'analisi di grandi masse di dati
 
 Esistono già esempi per la maggior parte di queste aree
 
